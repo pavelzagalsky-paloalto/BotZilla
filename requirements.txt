@@ -3,4 +3,3 @@ python-telegram-bot
 python-bugzilla
 pymongo
 telegram==0.1
-validate_email
